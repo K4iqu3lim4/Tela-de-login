@@ -17,4 +17,4 @@ Este projeto consiste no desenvolvimento de uma tela de login, com foco em prati
 
 ## Deploy
 
-🔗 [Abrir projeto](https://tela-de-login-2t0k02jkz-k4iqu3-lima-s-projects.vercel.app)
+🔗 [Abrir projeto](https://warm-bubblegum-d44baf.netlify.app/)
