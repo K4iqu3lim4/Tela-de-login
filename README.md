@@ -19,4 +19,4 @@ Este projeto consiste no desenvolvimento de uma tela de login, com foco em prati
 
 ## Deploy
 
-🔗 [Abrir projeto](https://warm-bubblegum-d44baf.netlify.app/)
+🔗 [Abrir projeto](https://login-lim4.netlify.app/)
